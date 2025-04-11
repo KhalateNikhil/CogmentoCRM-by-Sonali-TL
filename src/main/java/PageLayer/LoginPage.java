@@ -37,6 +37,7 @@ public class LoginPage extends BaseClass{
 		pass.sendKeys(password);
 		login.click();
 		System.out.println("Github TC 1 by Sonali ");
+		System.out.println("Github TC 2 by Nikhil ");
 	}
 	
 	
