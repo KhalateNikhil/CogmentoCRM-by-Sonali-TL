@@ -38,6 +38,7 @@ public class LoginPage extends BaseClass{
 		login.click();
 		System.out.println("Github TC 1 by Sonali ");
 		System.out.println("Github TC 2 by Nikhil ");
+		System.out.println("Github TC 3 by Sonali");
 	}
 	
 	
